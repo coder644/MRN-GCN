@@ -1,0 +1,7 @@
+axial_positional_embedding==0.2.1
+dgl_cuda11.3==0.8.2
+local_attention==1.4.3
+numpy==1.22.3
+product_key_memory==0.1.10
+scikit_learn==1.0.2
+torch==1.11.0
